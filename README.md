@@ -34,22 +34,23 @@ This project demonstrates the process of performing Exploratory Data Analysis (E
 ## Steps
 
 1. **Dataset Selection**  
-   Start by selecting a dataset of your choice. You can use publicly available datasets from platforms like [Kaggle](https://www.kaggle.com/), [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php), or [data.gov](https://www.data.gov/).
+   Start by selecting a dataset which is uploaded
+   
 
-2. **Data Loading**  
+3. **Data Loading**  
    Use pandas to load the dataset into a DataFrame and inspect its structure.
 
-3. **Exploratory Data Analysis**  
+4. **Exploratory Data Analysis**  
    - Check the shape of the dataset, missing values, and data types.
    - Compute basic statistics (mean, median, standard deviation, etc.).
    - Analyze distributions of numeric features using histograms.
    - Explore relationships between variables using scatter plots.
    - Use a heatmap to visualize correlations.
 
-4. **Handling Outliers**  
+5. **Handling Outliers**  
    Detect and visualize outliers using box plots or other suitable methods.
 
-5. **Visualization**  
+6. **Visualization**  
    Use matplotlib and seaborn to create:
    - Histograms for univariate analysis.
    - Scatter plots for bivariate analysis.
