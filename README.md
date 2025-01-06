@@ -1,1 +1,1 @@
-# CODEIT-task-1
+# CODETECH-task-1
